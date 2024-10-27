@@ -1,4 +1,5 @@
-# AI-Powered English Debate System
+# Agentic Adversarial AI Debate System
+
 
 An automated debate system that leverages OpenAI's GPT-3.5 to simulate structured debates between two AI agents, with a judge to evaluate arguments. The system generates debate topics and conducts a multi-round debate with scoring and evaluation.
 
